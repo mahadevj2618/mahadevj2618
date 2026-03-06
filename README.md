@@ -48,6 +48,51 @@ Currently working as a **Full Stack Developer at Nubax Data Labs**, where I cont
 ![Nodemon](https://img.shields.io/badge/nodemon-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
 
 ---
+# 🚀 Projects
+
+## 🧠 Artificial-Intelligence Algorithms for Converting Marathi Inscript to Marathi Text
+**Technologies:** Python, AI, EasyOCR, CNN  
+
+- Developed an AI-based system to convert **historical Marathi inscriptions into readable Marathi text**.  
+- Implemented **EasyOCR and Convolutional Neural Networks (CNNs)** for character recognition and text extraction.  
+- Helps **historians and researchers analyze ancient inscriptions efficiently**.
+
+---
+
+## 🎬 MovieFlex – Movie Streaming Web Application
+**Technologies:** Java, Spring Boot, HTML, CSS, Bootstrap  
+
+- Developed a **full-stack movie streaming platform** with secure user authentication.  
+- Implemented **movie browsing and premium purchase functionality** using **Razorpay API**.  
+- Built an **admin panel** to manage movies, users, and platform content.  
+
+🔗 GitHub:  
+https://github.com/mahadevj2618/MovieFlex
+
+---
+
+## 🛒 E-commerce RESTful API
+**Technologies:** Node.js, Express.js  
+
+- Developed a **backend REST API** supporting **Users, Products, Orders, and Cart modules**.  
+- Implemented **authentication, authorization, input validation, and error handling**.  
+- Designed **scalable endpoints supporting full CRUD operations**.
+
+🔗 GitHub:  
+https://github.com/mahadevj2618/ecommerce-rest-api
+
+---
+
+## 💬 Real-time Chat Service
+**Technologies:** Node.js, Express.js, Socket.IO  
+
+- Developed a **real-time chat system** supporting multiple chat rooms.  
+- Implemented **instant messaging functionality using WebSockets with Socket.IO**.  
+- Built **REST APIs for chat operations and session management**.  
+- Enabled **real-time communication between users with low latency**.
+
+🔗 GitHub:  
+https://github.com/mahadevj2618/chat-app
 
 # 📊 GitHub Stats
 
