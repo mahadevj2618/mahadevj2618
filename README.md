@@ -1,5 +1,8 @@
 # 💫 About Me:
-I am a motivated software professional with an MCA postgraduate degree and a strong foundation in software development. I possess hands-on experience in both front-end and back-end technologies, including HTML, CSS, and JavaScript, enabling me to build scalable, efficient, and user-centric applications.<br><br>Throughout my academic journey, I worked on multiple projects that strengthened my technical expertise, analytical thinking, and problem-solving skills. I actively collaborated with peers to design intuitive user interfaces and develop robust backend systems, gaining valuable experience in end-to-end application development.<br><br>Driven by a passion for continuous learning, I consistently stay updated with emerging technologies, industry trends, and best practices. I enjoy working in collaborative, cross-functional environments and thrive on solving complex challenges.<br><br>Currently, I am working as a Full Stack Developer at Nubax Data Labs, where I contribute to developing innovative solutions and enhancing application performance while expanding my technical skill set.
+Full Stack Developer with 1+ year of experience building scalable web applications using React, Node.js,
+Express.js, and Java. Skilled in designing RESTful APIs, developing responsive user interfaces, and integrating
+frontend and backend systems. Experienced in working in collaborative development environments and
+delivering production-ready applications with clean and efficient code.<br><br>Currently, I am working as a Full Stack Developer at Nubax Data Labs, where I contribute to developing innovative solutions and enhancing application performance while expanding my technical skill set.
 
 
 ## 🌐 Socials:
